@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: 2c4132ae-7bf9-4900-bc93-263cd831948d
 title: Eigenfunction Expansion Tutorial
 uid: f793914b-711c-2976-7339-03f8e2d6229b
