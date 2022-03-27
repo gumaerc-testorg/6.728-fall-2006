@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 2c4132ae-7bf9-4900-bc93-263cd831948d
 resourcetype: Document
 title: tnotation.pdf
 uid: 2c684528-73b4-04d3-e356-6ed153f629e3

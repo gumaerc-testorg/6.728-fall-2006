@@ -27,7 +27,7 @@ SUPPORTING FILES
 Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps1))
 {{< tdclose >}}
 {{< tdopen >}}
-ps1\_mod.m ([M](/courses/electrical-engineering-and-computer-science/6-728-applied-quantum-and-statistical-physics-fall-2006/assignments/ps1_mod.m))
+ps1\_mod.m ([M]({{< baseurl >}}/resources/ps1_mod))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +36,7 @@ ps1\_mod.m ([M](/courses/electrical-engineering-and-computer-science/6-728-appli
 Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps2))
 {{< tdclose >}}
 {{< tdopen >}}
-ps2\_mod.m ([M](/courses/electrical-engineering-and-computer-science/6-728-applied-quantum-and-statistical-physics-fall-2006/assignments/ps2_mod.m))
+ps2\_mod.m ([M]({{< baseurl >}}/resources/ps2_mod))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,7 +47,7 @@ Problem Set 3 ([PDF]({{< baseurl >}}/resources/ps3))
 {{< tdopen >}}
 
 
-function\_cyclelines.m ([M](/courses/electrical-engineering-and-computer-science/6-728-applied-quantum-and-statistical-physics-fall-2006/assignments/function_cyclelines.m)), ps3p1.m ([M](/courses/electrical-engineering-and-computer-science/6-728-applied-quantum-and-statistical-physics-fall-2006/assignments/ps3p1.m)), ps3p1b.m ([M](/courses/electrical-engineering-and-computer-science/6-728-applied-quantum-and-statistical-physics-fall-2006/assignments/ps3p1b.m)), ps3p1mod.m ([M](/courses/electrical-engineering-and-computer-science/6-728-applied-quantum-and-statistical-physics-fall-2006/assignments/ps3p1mod.m)), ps3p3.m ([M](/courses/electrical-engineering-and-computer-science/6-728-applied-quantum-and-statistical-physics-fall-2006/assignments/ps3p3.m)), ps3p3\_movie.m ([M](/courses/electrical-engineering-and-computer-science/6-728-applied-quantum-and-statistical-physics-fall-2006/assignments/ps3p3_movie.m)) and ps3p3\_movie2.m ([M](/courses/electrical-engineering-and-computer-science/6-728-applied-quantum-and-statistical-physics-fall-2006/assignments/ps3p3_movie2.m))
+function\_cyclelines.m ([M]({{< baseurl >}}/resources/function_cyclelines)), ps3p1.m ([M]({{< baseurl >}}/resources/ps3p1)), ps3p1b.m ([M]({{< baseurl >}}/resources/ps3p1b)), ps3p1mod.m ([M]({{< baseurl >}}/resources/ps3p1mod)), ps3p3.m ([M]({{< baseurl >}}/resources/ps3p3)), ps3p3\_movie.m ([M]({{< baseurl >}}/resources/ps3p3_movie)) and ps3p3\_movie2.m ([M]({{< baseurl >}}/resources/ps3p3_movie2))
 
 
 {{< tdclose >}}
@@ -58,7 +58,7 @@ function\_cyclelines.m ([M](/courses/electrical-engineering-and-computer-science
 Problem Set 4 ([PDF]({{< baseurl >}}/resources/ps4))
 {{< tdclose >}}
 {{< tdopen >}}
-rtplot.m ([M](/courses/electrical-engineering-and-computer-science/6-728-applied-quantum-and-statistical-physics-fall-2006/assignments/rtplot.m)) and rtwell.m ([M](/courses/electrical-engineering-and-computer-science/6-728-applied-quantum-and-statistical-physics-fall-2006/assignments/rtwell.m))
+rtplot.m ([M]({{< baseurl >}}/resources/rtplot)) and rtwell.m ([M]({{< baseurl >}}/resources/rtwell))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +67,7 @@ rtplot.m ([M](/courses/electrical-engineering-and-computer-science/6-728-applied
 Problem Set 5 ([PDF]({{< baseurl >}}/resources/ps5))
 {{< tdclose >}}
 {{< tdopen >}}
-herm.m ([M](/courses/electrical-engineering-and-computer-science/6-728-applied-quantum-and-statistical-physics-fall-2006/assignments/herm.m)) and sho.m ([M](/courses/electrical-engineering-and-computer-science/6-728-applied-quantum-and-statistical-physics-fall-2006/assignments/sho.m))
+herm.m ([M]({{< baseurl >}}/resources/herm)) and sho.m ([M]({{< baseurl >}}/resources/sho))
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 2c4132ae-7bf9-4900-bc93-263cd831948d
 resourcetype: Document
 title: wkb_tunneling2.pdf
 uid: ae3ea48a-2045-6190-9689-dcff7c43ffaf
