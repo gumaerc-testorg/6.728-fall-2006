@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for Problem Set 5.
-file: /media/courses/6-728-applied-quantum-and-statistical-physics-fall-2006/08e5d145e20d966ac778018766ebfd43_herm.m
+file: /courses/6-728-applied-quantum-and-statistical-physics-fall-2006/08e5d145e20d966ac778018766ebfd43_herm.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: herm.m
 uid: 08e5d145-e20d-966a-c778-018766ebfd43
 ---
+Supporting file for Problem Set 5.
+

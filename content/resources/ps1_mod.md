@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for Problem Set 1.
-file: /media/courses/6-728-applied-quantum-and-statistical-physics-fall-2006/2ff37de7797a5c9c5306863b893e435e_ps1_mod.m
+file: /courses/6-728-applied-quantum-and-statistical-physics-fall-2006/2ff37de7797a5c9c5306863b893e435e_ps1_mod.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: ps1_mod.m
 uid: 2ff37de7-797a-5c9c-5306-863b893e435e
 ---
+Supporting file for Problem Set 1.
+
