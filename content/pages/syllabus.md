@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section contains textbook, homework, quizzes, grading criteria and
+  calendar of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: bbac9756-9489-11fa-90c0-b79f4345be79
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times

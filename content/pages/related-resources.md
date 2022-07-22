@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section contains information on thermionic emission, matlab and
+  formula sheets and tutorials.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: e265346e-a01a-5275-4bbc-9b6c31ba754a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Thermionic Emission
@@ -24,5 +32,5 @@ The MathWorks user page, with user-contributed downloads, news discussions, and 
 Formula Sheets and Tutorials
 ----------------------------
 
-[Eigenfunction Expansion Tutorial]({{< baseurl >}}/pages/study-materials/eigenfunction_exp)  
+{{% resource_link f793914b-711c-2976-7339-03f8e2d6229b "Eigenfunction Expansion Tutorial" %}}  
 Tutorial on eigenfunction expansion of a particle wavepacket.
