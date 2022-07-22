@@ -5,6 +5,7 @@ file: /courses/6-728-applied-quantum-and-statistical-physics-fall-2006/f1d69a84b
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps3p1b.m
 uid: f1d69a84-bbb8-8918-6e82-66c238827d41
 ---
 Supporting file for Problem Set 3.
-

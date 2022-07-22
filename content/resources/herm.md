@@ -5,6 +5,7 @@ file: /courses/6-728-applied-quantum-and-statistical-physics-fall-2006/08e5d145e
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: herm.m
 uid: 08e5d145-e20d-966a-c778-018766ebfd43
 ---
 Supporting file for Problem Set 5.
-

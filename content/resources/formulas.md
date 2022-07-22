@@ -5,6 +5,7 @@ description: This resource contains formulas based on trigonometric and hyperbol
 file: /courses/6-728-applied-quantum-and-statistical-physics-fall-2006/c82a673098ae77e6c010aead2933ad74_formulas.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains formulas based on trigonometric and hyperbolic identities.
-
