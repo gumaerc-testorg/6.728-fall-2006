@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains 4 problems for Quiz 2.
 file: /courses/6-728-applied-quantum-and-statistical-physics-fall-2006/876edab5bc7c89b9c106249f53adb3f9_quiz2.pdf
+file_size: 81228
 file_type: application/pdf
 learning_resource_types:
 - Exams

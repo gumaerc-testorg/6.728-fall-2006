@@ -2,6 +2,7 @@
 content_type: resource
 description: Supplementary handout.
 file: /courses/6-728-applied-quantum-and-statistical-physics-fall-2006/ae3ea48a204561909689dcff7c43ffaf_wkb_tunneling2.pdf
+file_size: 83463
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

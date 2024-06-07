@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains formulas based on trigonometric and hyperbolic
   identities.
 file: /courses/6-728-applied-quantum-and-statistical-physics-fall-2006/c82a673098ae77e6c010aead2933ad74_formulas.pdf
+file_size: 129921
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
