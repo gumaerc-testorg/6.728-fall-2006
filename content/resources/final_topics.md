@@ -5,6 +5,7 @@ description: 'This resource contains the Final Exam topics: fundamentals of quan
   systems, density of states, application of fermi''s golden rule, statistical mechanics
   and hydrogen atom and central potentials.'
 file: /courses/6-728-applied-quantum-and-statistical-physics-fall-2006/7087ad38f7c0f9c482c2d627b88fa27a_final_topics.pdf
+file_size: 38792
 file_type: application/pdf
 learning_resource_types:
 - Exams
