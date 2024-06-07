@@ -2,6 +2,7 @@
 content_type: resource
 description: Supplementary handout.
 file: /courses/6-728-applied-quantum-and-statistical-physics-fall-2006/a90ce327f58e00e2a78feb1ad4f0c6f9_tunnelingpc.pdf
+file_size: 137142
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

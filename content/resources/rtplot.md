@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting file for Problem Set 4.
 file: /courses/6-728-applied-quantum-and-statistical-physics-fall-2006/7f8c53890a93d5ddb6f8f60c06af700b_rtplot.m
+file_size: 1906
 file_type: text/plain
 learning_resource_types:
 - Assignments

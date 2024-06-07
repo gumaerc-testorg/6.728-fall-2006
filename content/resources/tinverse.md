@@ -6,6 +6,7 @@ description: Part of a tutorial which describes how, given an initial wave funct
   to these eigenfunctions. Finally, the wave function in x-space is recreated from
   the expansion.
 file: /courses/6-728-applied-quantum-and-statistical-physics-fall-2006/c819e1d253d68f4435d4bc0cb3ecf6d7_tinverse.pdf
+file_size: 29750
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
