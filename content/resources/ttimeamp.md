@@ -5,7 +5,7 @@ description: Part of a tutorial which describes how, given an initial wave funct
   into an expansion of the Hamiltonian eigenfunctions. Time dependence is then applied
   to these eigenfunctions. Finally, the wave function in x-space is recreated from
   the expansion.
-file: /courses/6-728-applied-quantum-and-statistical-physics-fall-2006/eb5413a491e7fbf7b2d733cb1d72cde6_ttimeamp.pdf
+file: /ol-ocw-studio-app/courses/6-728-applied-quantum-and-statistical-physics-fall-2006/eb5413a491e7fbf7b2d733cb1d72cde6_ttimeamp.pdf
 file_size: 30384
 file_type: application/pdf
 learning_resource_types: []
