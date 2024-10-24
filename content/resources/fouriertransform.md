@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on how to compute the fourier transform.
-file: /courses/6-728-applied-quantum-and-statistical-physics-fall-2006/6d007680fab103a2b769d747844e341f_fouriertransform.pdf
+file: /ol-ocw-studio-app/courses/6-728-applied-quantum-and-statistical-physics-fall-2006/6d007680fab103a2b769d747844e341f_fouriertransform.pdf
 file_size: 87431
 file_type: application/pdf
 learning_resource_types: []

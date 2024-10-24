@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for Problem Set 5.
-file: /courses/6-728-applied-quantum-and-statistical-physics-fall-2006/08e5d145e20d966ac778018766ebfd43_herm.m
+file: /ol-ocw-studio-app/courses/6-728-applied-quantum-and-statistical-physics-fall-2006/08e5d145e20d966ac778018766ebfd43_herm.m
 file_size: 573
 file_type: text/plain
 learning_resource_types:
