@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /courses/6-728-applied-quantum-and-statistical-physics-fall-2006/e072f849b53f8efe983d5fad7f461231_ps2.pdf
+file: /ol-ocw-studio-app/courses/6-728-applied-quantum-and-statistical-physics-fall-2006/e072f849b53f8efe983d5fad7f461231_ps2.pdf
 file_size: 122919
 file_type: application/pdf
 learning_resource_types:

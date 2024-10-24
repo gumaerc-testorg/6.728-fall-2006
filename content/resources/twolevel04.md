@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplementary handout.
-file: /courses/6-728-applied-quantum-and-statistical-physics-fall-2006/16029f7c397abce618505381ec3a82dc_twolevel04.pdf
+file: /ol-ocw-studio-app/courses/6-728-applied-quantum-and-statistical-physics-fall-2006/16029f7c397abce618505381ec3a82dc_twolevel04.pdf
 file_size: 500681
 file_type: application/pdf
 learning_resource_types: []
