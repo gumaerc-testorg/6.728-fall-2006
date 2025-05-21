@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains list of 8 topics covered in Quiz 2.
-file: /ol-ocw-studio-app/courses/6-728-applied-quantum-and-statistical-physics-fall-2006/a11b6fbec53537b72bdb047a409d2c38_quiz2_topics.pdf
+file: /courses/6-728-applied-quantum-and-statistical-physics-fall-2006/a11b6fbec53537b72bdb047a409d2c38_quiz2_topics.pdf
 file_size: 40652
 file_type: application/pdf
 learning_resource_types:

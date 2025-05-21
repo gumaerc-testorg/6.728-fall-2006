@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on computing the inverse fourier transform.
-file: /ol-ocw-studio-app/courses/6-728-applied-quantum-and-statistical-physics-fall-2006/7a69ae64de935db46b38a04741251bf4_inverse.pdf
+file: /courses/6-728-applied-quantum-and-statistical-physics-fall-2006/7a69ae64de935db46b38a04741251bf4_inverse.pdf
 file_size: 48444
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on numerical considerations.
-file: /ol-ocw-studio-app/courses/6-728-applied-quantum-and-statistical-physics-fall-2006/25e094eca9bb6c71d5d2f7b3350f09c0_numconsidrations.pdf
+file: /courses/6-728-applied-quantum-and-statistical-physics-fall-2006/25e094eca9bb6c71d5d2f7b3350f09c0_numconsidrations.pdf
 file_size: 20074
 file_type: application/pdf
 learning_resource_types: []

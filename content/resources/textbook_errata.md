@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This handout contains errata from the course textbook.
-file: /ol-ocw-studio-app/courses/6-728-applied-quantum-and-statistical-physics-fall-2006/17e937da8a07b8665a656cbf875aa0a3_textbook_errata.pdf
+file: /courses/6-728-applied-quantum-and-statistical-physics-fall-2006/17e937da8a07b8665a656cbf875aa0a3_textbook_errata.pdf
 file_size: 94992
 file_type: application/pdf
 learning_resource_types:
