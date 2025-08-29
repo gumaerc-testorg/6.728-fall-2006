@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for Problem Set 3.
-file: /courses/6-728-applied-quantum-and-statistical-physics-fall-2006/ceaa81da4d950e951fc19a159281895b_ps3p3.m
+file: /ol-ocw-studio-app/courses/6-728-applied-quantum-and-statistical-physics-fall-2006/ceaa81da4d950e951fc19a159281895b_ps3p3.m
 file_size: 6752
 file_type: text/plain
 learning_resource_types:

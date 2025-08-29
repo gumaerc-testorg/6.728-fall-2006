@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for Problem Set 3.
-file: /courses/6-728-applied-quantum-and-statistical-physics-fall-2006/18e7c63df68c4db75ae5377b36126a05_function_cyclelines.m
+file: /ol-ocw-studio-app/courses/6-728-applied-quantum-and-statistical-physics-fall-2006/18e7c63df68c4db75ae5377b36126a05_function_cyclelines.m
 file_size: 1262
 file_type: text/plain
 learning_resource_types:
