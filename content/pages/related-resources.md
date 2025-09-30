@@ -15,19 +15,19 @@ video_metadata:
 Thermionic Emission
 -------------------
 
-Hammer, Edward E. "[Fluorescent Lamp](http://www.accessscience.com/content/fluorescent-lamp/263500)," In [AccessScience@McGraw-Hill](http://www.accessscience.com/), DOI 10.1036/1097-8542.263500, last modified: November 13, 2001.  
+Hammer, Edward E. "{{% resource_link "81904ef1-76a7-4efb-97aa-72bfd38e09c3" "Fluorescent Lamp" %}}," In {{% resource_link "fc9a82a1-c56e-45f0-92e8-6b5c4df7399e" "AccessScience@McGraw-Hill" %}}, DOI 10.1036/1097-8542.263500, last modified: November 13, 2001.  
 Article in McGraw-Hill Encyclopedia of Science and Technology on Fluorescent Lamps. Fluorescent lamps use thermionic emission in their ignition.
 
 MATLAB®
 -------
 
-[MATLAB® Overview](http://www.mathworks.com/products/matlab/index.html?ref=pfo)  
+{{% resource_link "ecc89b1f-d947-4731-92b6-81474ed18c2f" "MATLAB® Overview" %}}  
 Helpful Web site by The MathWorks, the manufacturer of MATLAB®. It includes a function list and demos.
 
-[MATLAB® Central](http://www.mathworks.com/matlabcentral/)  
+{{% resource_link "7396c999-b88f-403d-a969-ccf76f9526c9" "MATLAB® Central" %}}  
 The MathWorks user page, with user-contributed downloads, news discussions, and much more.
 
-[MATLAB® at Indiana University's Stat/Math Center](https://kb.iu.edu/d/ajmh)
+{{% resource_link "1a459b7f-701b-43c8-b945-df622f86de54" "MATLAB® at Indiana University's Stat/Math Center" %}}
 
 Formula Sheets and Tutorials
 ----------------------------
